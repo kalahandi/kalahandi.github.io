@@ -13,3 +13,9 @@ kalahandi map service
 3.an info portal on kalahandi.
 
 4.finally a user contributon page ----where user can upload their views,blogs and articles
+
+
+it should have both a static and a dynamic site integration ------dynamic part will be built with node js 
+and static part will be served here.
+
+this will be a simple info portal----------and slowly become a full-fleged website
