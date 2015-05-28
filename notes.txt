@@ -1,0 +1,15 @@
+The site will contain various maps of kalahandi and various places of it.
+data will be ploted over different maps.and statics will be represented with 
+different data visualisation techniques.
+
+
+some of the goals of the project.
+
+1.to provide an acurate map service of kalahandi throught websites and mobile apps-----
+kalahandi map service
+
+2.an info portal for kalahandi
+
+3.an info portal on kalahandi.
+
+4.finally a user contributon page ----where user can upload their views,blogs and articles
