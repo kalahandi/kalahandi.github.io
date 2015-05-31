@@ -1,5 +1,5 @@
 	Kalahandi GIS Project
-    Copyleft (C) 2015  kalahandi
+    Copyleft (C) 2015  Anshuman Mund
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
