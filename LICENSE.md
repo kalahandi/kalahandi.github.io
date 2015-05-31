@@ -1,4 +1,4 @@
-	Kalahandi GIS
+	Kalahandi GIS Project
     Copyleft (C) 2015  kalahandi
 
     This program is free software: you can redistribute it and/or modify
