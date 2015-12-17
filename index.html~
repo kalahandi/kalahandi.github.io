@@ -207,13 +207,13 @@ Kalahandi region had a glorious past and great civilisation in ancient time. Arc
 <!--tourism-->
 <div class="container-fluid " id="tourism"><h1>Tourist Map</h1>
 	<div class="col-sm-5 img img-thumbnail  text-center""><br>
-		<img class="img-responsive"src="project-data/images/kalahandi-tr.png" height ="470" />
+		<img class="img-responsive"src="project-data/images/kalahandi-tr.png" height ="470" /><br>
 		Map of Kalahandi
 	</div>
 
 	<div class="col-sm-7 img img-thumbnail  text-center"">
 			<br>
-		<img class = "img-responsive" src="project-data/images/bpt.png" height ="470" />
+		<img class = "img-responsive" src="project-data/images/bpt.png" height ="470" /><br>
 		Map of Bhawanipatna
 	</div>
 
