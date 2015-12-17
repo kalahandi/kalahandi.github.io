@@ -153,14 +153,13 @@ Kalahandi region had a glorious past and great civilisation in ancient time. Arc
 </div>
 
 <!--code for the graphs-->
-<div class="container-fluid" id="population"><h1>Kalahandi  Population as per Census 2011</h1>
-
+<div class="container-fluid " id="population"><h1>Kalahandi  Population as per Census 2011</h1>
 <div id="chartContainer" ></div>
 </div>
 
 
 
-<div class="container-fluid" id="culture"><h1>Picture Gallery</h1>
+<div class="container-fluid well" id="culture"><h1>Picture Gallery</h1>
 
 <!--image gallery-->
 <div class="col-sm-4">
@@ -207,13 +206,13 @@ Kalahandi region had a glorious past and great civilisation in ancient time. Arc
 <!--tourism-->
 <div class="container-fluid " id="tourism"><h1>Tourist Map</h1>
 	<div class="col-sm-5 img img-thumbnail  text-center""><br>
-		<img class="img-responsive"src="project-data/images/kalahandi-tr.png" height ="470" /><br>
+		<img class="img-responsive"src="project-data/images/kalahandi-tr.png" height ="470" />
 		Map of Kalahandi
 	</div>
 
 	<div class="col-sm-7 img img-thumbnail  text-center"">
 			<br>
-		<img class = "img-responsive" src="project-data/images/bpt.png" height ="470" /><br>
+		<img class = "img-responsive" src="project-data/images/bpt.png" height ="470" />
 		Map of Bhawanipatna
 	</div>
 
@@ -259,14 +258,14 @@ var svg = dimple.newSvg("#chartContainer", "100%", 600);
           "01/10/2012", "01/11/2012", "01/12/2012"]);
 	*/   
         myChart = new dimple.chart(svg, data);
-	myChart.setMargins("60px", "30px", "110px", "220px");
+	myChart.setMargins("50px", "30px", "00px", "220px");
        // myChart.setBounds(60, 30, 1100, 300)
         var x = myChart.addCategoryAxis("x", "AreaName");
         x.addOrderRule("AreaName");
         myChart.addMeasureAxis("y","Total-Persons");
         myChart.addMeasureAxis("z","Total-Males");
         myChart.addSeries("Area", dimple.plot.bar);
-     myChart.addLegend("-100px", "30px", "100px", "-70px");
+     myChart.addLegend("100px", "30px", "100px", "-70px");
         myChart.draw();
 
 });//end of data loading and ploting
